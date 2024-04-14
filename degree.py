@@ -11,3 +11,4 @@ for degree in range(0, 361, 15):
     print("tan" + str(degree) + "°の値は" + str(tan_value))
 
     # gitの練習
+    # branchをつくって、練習
