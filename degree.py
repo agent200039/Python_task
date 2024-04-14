@@ -12,4 +12,5 @@ for degree in range(0, 361, 15):
 
     # gitの練習
     # branchをつくって、練習
-    # update text
+
+    # git switch -c UpdateTextの練習
