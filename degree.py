@@ -9,3 +9,5 @@ for degree in range(0, 361, 15):
     print("sin" + str(degree) + "°の値は" + str(sin_value))
     print("cos" + str(degree) + "°の値は" + str(cos_value))
     print("tan" + str(degree) + "°の値は" + str(tan_value))
+
+    # gitの練習
